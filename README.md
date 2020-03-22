@@ -10,6 +10,6 @@ O sistema de arquivos é SharedPreferences no futuro será implementado em SQLit
 e um sistema de login.
 
 ### Prints
-![/prints/print1.jpg]
-![/prints/print2.jpg]
-![/prints/print3.jpg]
+<img src="prints/print1.jpg" width ="250" height = "500">
+<img src="prints/print2.jpg" width ="250" height = "500">
+<img src="prints/print3.jpg" width ="250" height = "500">
