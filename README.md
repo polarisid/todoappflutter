@@ -1,5 +1,5 @@
 # todoappflutter
-Meu primeiro Projeto flutter inspirado pelo canal BALTA.io 
+Meu primeiro Projeto flutter inspirado pelo canal BALTA.io <br>
 email: danielcarvalhorst@gmail.com
 
 Basta clicar na Appbar para **adicionar uma nova tarefa**<br>
